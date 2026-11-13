@@ -1,0 +1,62 @@
+line_id,customer,channel,family,quantity,list_price,net_price,unit_cost,approved_discount
+S001,Customer-1,Distribution,Connectivity,20,100,88,48,0.2
+S002,Customer-2,OEM,Power Supplies,30,250,220,145,0.18
+S003,Customer-3,Distribution,I/O Modules,40,500,440,285,0.15
+S004,Customer-4,OEM,Connectivity,50,100,82,48,0.2
+S005,Customer-5,Distribution,Power Supplies,60,250,205.00000000000003,145,0.18
+S006,Customer-6,OEM,I/O Modules,70,500,410.00000000000006,285,0.15
+S007,Customer-7,Distribution,Connectivity,80,100,75,48,0.2
+S008,Customer-8,OEM,Power Supplies,20,250,187.5,145,0.18
+S009,Customer-9,Distribution,I/O Modules,30,500,375,285,0.15
+S010,Customer-10,OEM,Connectivity,40,100,70,48,0.2
+S011,Customer-1,Distribution,Power Supplies,50,250,175,145,0.18
+S012,Customer-2,OEM,I/O Modules,60,500,350,285,0.15
+S013,Customer-3,Distribution,Connectivity,70,100,85,48,0.2
+S014,Customer-4,OEM,Power Supplies,80,250,212.5,145,0.18
+S015,Customer-5,Distribution,I/O Modules,20,500,425,285,0.15
+S016,Customer-6,OEM,Connectivity,30,100,88,48,0.2
+S017,Customer-7,Distribution,Power Supplies,40,250,220,145,0.18
+S018,Customer-8,OEM,I/O Modules,50,500,440,285,0.15
+S019,Customer-9,Distribution,Connectivity,60,100,82,48,0.2
+S020,Customer-10,OEM,Power Supplies,70,250,205.00000000000003,145,0.18
+S021,Customer-1,Distribution,I/O Modules,80,500,410.00000000000006,285,0.15
+S022,Customer-2,OEM,Connectivity,20,100,75,48,0.2
+S023,Customer-3,Distribution,Power Supplies,30,250,187.5,145,0.18
+S024,Customer-4,OEM,I/O Modules,40,500,375,285,0.15
+S025,Customer-5,Distribution,Connectivity,50,100,70,48,0.2
+S026,Customer-6,OEM,Power Supplies,60,250,175,145,0.18
+S027,Customer-7,Distribution,I/O Modules,70,500,350,285,0.15
+S028,Customer-8,OEM,Connectivity,80,100,85,48,0.2
+S029,Customer-9,Distribution,Power Supplies,20,250,212.5,145,0.18
+S030,Customer-10,OEM,I/O Modules,30,500,425,285,0.15
+S031,Customer-1,Distribution,Connectivity,40,100,88,48,0.2
+S032,Customer-2,OEM,Power Supplies,50,250,220,145,0.18
+S033,Customer-3,Distribution,I/O Modules,60,500,440,285,0.15
+S034,Customer-4,OEM,Connectivity,70,100,82,48,0.2
+S035,Customer-5,Distribution,Power Supplies,80,250,205.00000000000003,145,0.18
+S036,Customer-6,OEM,I/O Modules,20,500,410.00000000000006,285,0.15
+S037,Customer-7,Distribution,Connectivity,30,100,75,48,0.2
+S038,Customer-8,OEM,Power Supplies,40,250,187.5,145,0.18
+S039,Customer-9,Distribution,I/O Modules,50,500,375,285,0.15
+S040,Customer-10,OEM,Connectivity,60,100,70,48,0.2
+S041,Customer-1,Distribution,Power Supplies,70,250,175,145,0.18
+S042,Customer-2,OEM,I/O Modules,80,500,350,285,0.15
+S043,Customer-3,Distribution,Connectivity,20,100,85,48,0.2
+S044,Customer-4,OEM,Power Supplies,30,250,212.5,145,0.18
+S045,Customer-5,Distribution,I/O Modules,40,500,425,285,0.15
+S046,Customer-6,OEM,Connectivity,50,100,88,48,0.2
+S047,Customer-7,Distribution,Power Supplies,60,250,220,145,0.18
+S048,Customer-8,OEM,I/O Modules,70,500,440,285,0.15
+S049,Customer-9,Distribution,Connectivity,80,100,82,48,0.2
+S050,Customer-10,OEM,Power Supplies,20,250,205.00000000000003,145,0.18
+S051,Customer-1,Distribution,I/O Modules,30,500,410.00000000000006,285,0.15
+S052,Customer-2,OEM,Connectivity,40,100,75,48,0.2
+S053,Customer-3,Distribution,Power Supplies,50,250,187.5,145,0.18
+S054,Customer-4,OEM,I/O Modules,60,500,375,285,0.15
+S055,Customer-5,Distribution,Connectivity,70,100,70,48,0.2
+S056,Customer-6,OEM,Power Supplies,80,250,175,145,0.18
+S057,Customer-7,Distribution,I/O Modules,20,500,350,285,0.15
+S058,Customer-8,OEM,Connectivity,30,100,85,48,0.2
+S059,Customer-9,Distribution,Power Supplies,40,250,212.5,145,0.18
+S060,Customer-10,OEM,I/O Modules,50,500,425,285,0.15
+
